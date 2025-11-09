@@ -14,7 +14,3 @@
 ![OpenRCT2](https://img.shields.io/badge/OpenRCT2-1F8A70?style=for-the-badge&logo=openrct2&logoColor=white)
 
 
-- 🔭 Working on realistic missile guidance and tracking logic  
-- 🌱 Learning electrical & aerospace engineering fundamentals  
-- 💬 Ask me about Roblox physics or embedded systems  
-- ⚡ Fun fact: I test missile trajectories using math-driven motion curves
