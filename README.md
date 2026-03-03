@@ -1,4 +1,4 @@
-## Hi there 👋 I'm RVernox!
+## Hi there 👋 I'm Fodinisk!
 
 ![RVernox's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RayFodinisk&layout=compact&langs_count=8&theme=nightowl)
 
