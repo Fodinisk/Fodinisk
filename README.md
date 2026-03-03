@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Fodinisk!
 
-![RVernox's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RayFodinisk&layout=compact&langs_count=8&theme=nightowl)
+![Fodinisk's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fodinisk&layout=compact&langs_count=8&theme=nightowl)
 
 ## Stuff I Like :3 (Unimportant)
 
